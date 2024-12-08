@@ -1,0 +1,2374 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .frame-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1901px;
+  height: 10112px;
+}
+
+.desktop .frame {
+  width: 1920px;
+  height: 10112px;
+  background-color: #ffffff;
+}
+
+.desktop .group {
+  height: 10112px;
+}
+
+.desktop .element {
+  width: 1920px;
+  height: 10112px;
+  background-color: #f6f6f6;
+  overflow: hidden;
+}
+
+.desktop .overlap {
+  position: relative;
+  width: 2324px;
+  height: 11220px;
+  top: 277px;
+  left: -188px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 2208px;
+  height: 1363px;
+  top: 2474px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px -20px 135.6px -40px #ababab9e;
+}
+
+.desktop .div {
+  position: absolute;
+  width: 2316px;
+  height: 11220px;
+  top: 0;
+  left: 8px;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 2218px;
+  height: 6175px;
+  top: 1373px;
+  left: 53px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 2218px;
+  height: 1545px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 2218px;
+  height: 1163px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 2208px;
+  height: 1163px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px -20px 135.6px -40px #ababab9e;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 344px;
+  height: 920px;
+  top: 182px;
+  left: 1618px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 89px;
+  height: 88px;
+  top: 646px;
+  left: 137px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 48px;
+}
+
+.desktop .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  height: 75px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .line {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 296px;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 123px;
+  height: 629px;
+  top: 291px;
+  left: 195px;
+  background-color: #15a98f;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: #000000;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 162px;
+  height: 629px;
+  top: 291px;
+  left: 33px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 228px;
+  top: 321px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 342px;
+  height: 684px;
+  top: 418px;
+  left: 235px;
+}
+
+.desktop .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 46px;
+}
+
+.desktop .vector {
+  position: absolute;
+  width: 217px;
+  height: 120px;
+  top: 180px;
+  left: 105px;
+}
+
+.desktop .vector-2 {
+  position: absolute;
+  width: 226px;
+  height: 120px;
+  top: 180px;
+  left: 37px;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 123px;
+  height: 385px;
+  top: 299px;
+  left: 199px;
+  background-color: #b41d8e;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 162px;
+  height: 385px;
+  top: 299px;
+  left: 37px;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 228px;
+  top: 317px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 688px;
+  height: 816px;
+  top: 286px;
+  left: 584px;
+}
+
+.desktop .frame-4 {
+  flex-direction: column;
+  width: 296px;
+  position: absolute;
+  top: 56px;
+  left: 47px;
+  display: flex;
+  align-items: center;
+}
+
+.desktop .frame-5 {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 392px;
+}
+
+.desktop .vector-3 {
+  position: absolute;
+  width: 217px;
+  height: 120px;
+  top: 172px;
+  left: 447px;
+}
+
+.desktop .vector-4 {
+  position: absolute;
+  width: 227px;
+  height: 120px;
+  top: 172px;
+  left: 377px;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 123px;
+  height: 525px;
+  top: 291px;
+  left: 540px;
+  background-color: #04a9e3;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-7 {
+  position: absolute;
+  width: 162px;
+  height: 525px;
+  top: 291px;
+  left: 378px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 228px;
+  top: 312px;
+  left: 342px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .vector-5 {
+  position: absolute;
+  width: 217px;
+  height: 120px;
+  top: 232px;
+  left: 101px;
+}
+
+.desktop .vector-6 {
+  position: absolute;
+  width: 227px;
+  height: 120px;
+  top: 232px;
+  left: 32px;
+}
+
+.desktop .rectangle-8 {
+  position: absolute;
+  width: 123px;
+  height: 465px;
+  top: 351px;
+  left: 195px;
+  background-color: #eda6a3;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-9 {
+  position: absolute;
+  width: 162px;
+  height: 465px;
+  top: 351px;
+  left: 33px;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 228px;
+  top: 366px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 342px;
+  height: 870px;
+  top: 232px;
+  left: 1274px;
+}
+
+.desktop .vector-7 {
+  position: absolute;
+  width: 218px;
+  height: 120px;
+  top: 180px;
+  left: 100px;
+}
+
+.desktop .vector-8 {
+  position: absolute;
+  width: 226px;
+  height: 120px;
+  top: 180px;
+  left: 32px;
+}
+
+.desktop .rectangle-10 {
+  position: absolute;
+  width: 123px;
+  height: 570px;
+  top: 300px;
+  left: 194px;
+  background-color: #f3a840;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: #000000;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 161px;
+  height: 570px;
+  top: 300px;
+  left: 33px;
+}
+
+.desktop .group-wrapper {
+  position: absolute;
+  width: 210px;
+  height: 304px;
+  top: 0;
+  left: 272px;
+}
+
+.desktop .div-wrapper {
+  width: 212px;
+  height: 304px;
+}
+
+.desktop .overlap-group-3 {
+  position: relative;
+  width: 211px;
+  height: 306px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-26.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 158px;
+  top: 130px;
+  left: 26px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .vector-9 {
+  position: absolute;
+  width: 217px;
+  height: 120px;
+  top: 354px;
+  left: 1720px;
+}
+
+.desktop .vector-10 {
+  position: absolute;
+  width: 227px;
+  height: 120px;
+  top: 354px;
+  left: 1650px;
+}
+
+.desktop .vector-11 {
+  position: absolute;
+  width: 276px;
+  height: 383px;
+  top: 1162px;
+  left: 1660px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 249px;
+  top: 1349px;
+  left: 1674px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 2212px;
+  height: 4779px;
+  top: 1396px;
+  left: 0;
+}
+
+.desktop .line-2 {
+  position: absolute;
+  width: 1220px;
+  height: 2px;
+  top: 3565px;
+  left: 566px;
+}
+
+.desktop .paragraph {
+  position: absolute;
+  width: 480px;
+  top: 3151px;
+  left: 1355px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .p {
+  width: 480px;
+  top: 4551px;
+  left: 289px;
+  letter-spacing: var(--body-text-letter-spacing);
+  position: absolute;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .vector-12 {
+  position: absolute;
+  width: 848px;
+  height: 638px;
+  top: 357px;
+  left: 300px;
+}
+
+.desktop .vector-13 {
+  position: absolute;
+  width: 918px;
+  height: 259px;
+  top: 382px;
+  left: 299px;
+}
+
+.desktop .vector-14 {
+  position: absolute;
+  width: 838px;
+  height: 637px;
+  top: 434px;
+  left: 432px;
+}
+
+.desktop .vector-15 {
+  position: absolute;
+  width: 152px;
+  height: 519px;
+  top: 552px;
+  left: 300px;
+}
+
+.desktop .vector-16 {
+  position: absolute;
+  width: 124px;
+  height: 414px;
+  top: 75px;
+  left: 887px;
+}
+
+.desktop .vector-17 {
+  position: absolute;
+  width: 124px;
+  height: 376px;
+  top: 113px;
+  left: 981px;
+}
+
+.desktop .vector-18 {
+  position: absolute;
+  width: 109px;
+  height: 473px;
+  top: 53px;
+  left: 720px;
+}
+
+.desktop .vector-19 {
+  position: absolute;
+  width: 104px;
+  height: 552px;
+  top: 13px;
+  left: 571px;
+}
+
+.desktop .vector-20 {
+  position: absolute;
+  width: 120px;
+  height: 593px;
+  top: 13px;
+  left: 452px;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 482px;
+  top: 4455px;
+  left: 289px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .vector-21 {
+  position: absolute;
+  width: 450px;
+  height: 268px;
+  top: 2151px;
+  left: 556px;
+}
+
+.desktop .vector-22 {
+  position: absolute;
+  width: 450px;
+  height: 268px;
+  top: 2116px;
+  left: 613px;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 228px;
+  top: 89px;
+  left: 393px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 228px;
+  top: 89px;
+  left: 507px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  width: 228px;
+  top: 129px;
+  left: 665px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 228px;
+  top: 144px;
+  left: 835px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  width: 228px;
+  top: 188px;
+  left: 929px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .vector-23 {
+  position: absolute;
+  width: 276px;
+  height: 383px;
+  top: 2418px;
+  left: 1620px;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  width: 249px;
+  top: 2587px;
+  left: 1633px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 1180px;
+  height: 1304px;
+  top: 2213px;
+  left: 124px;
+}
+
+.desktop .overlap-8 {
+  position: relative;
+  width: 1158px;
+  height: 1305px;
+  top: -1px;
+  left: 3px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-12.png);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-group-4 {
+  position: absolute;
+  width: 896px;
+  height: 1165px;
+  top: 46px;
+  left: 162px;
+}
+
+.desktop .vector-24 {
+  position: absolute;
+  width: 54px;
+  height: 669px;
+  top: 497px;
+  left: 442px;
+}
+
+.desktop .vector-25 {
+  position: absolute;
+  width: 163px;
+  height: 732px;
+  top: 386px;
+  left: 527px;
+}
+
+.desktop .vector-26 {
+  position: absolute;
+  width: 107px;
+  height: 698px;
+  top: 267px;
+  left: 789px;
+}
+
+.desktop .vector-27 {
+  position: absolute;
+  width: 438px;
+  height: 268px;
+  top: 210px;
+  left: 90px;
+}
+
+.desktop .vector-28 {
+  position: absolute;
+  width: 444px;
+  height: 264px;
+  top: 172px;
+  left: 159px;
+}
+
+.desktop .vector-29 {
+  position: absolute;
+  width: 450px;
+  height: 268px;
+  top: 63px;
+  left: 340px;
+}
+
+.desktop .vector-30 {
+  position: absolute;
+  width: 450px;
+  height: 268px;
+  top: 119px;
+  left: 240px;
+}
+
+.desktop .vector-31 {
+  position: absolute;
+  width: 450px;
+  height: 268px;
+  top: 0;
+  left: 446px;
+}
+
+.desktop .vector-32 {
+  position: absolute;
+  width: 443px;
+  height: 262px;
+  top: 265px;
+  left: 0;
+}
+
+.desktop .vector-33 {
+  position: absolute;
+  width: 443px;
+  height: 262px;
+  top: 236px;
+  left: 50px;
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  width: 228px;
+  top: 453px;
+  left: 298px;
+  transform: rotate(28.56deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  width: 228px;
+  top: 404px;
+  left: 382px;
+  transform: rotate(28.56deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-17 {
+  position: absolute;
+  width: 228px;
+  top: 362px;
+  left: 463px;
+  transform: rotate(28.56deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-18 {
+  position: absolute;
+  width: 228px;
+  top: 249px;
+  left: 645px;
+  transform: rotate(28.56deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .element-2 {
+  position: absolute;
+  width: 296px;
+  top: 842px;
+  left: 247px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-19 {
+  position: absolute;
+  width: 296px;
+  top: 773px;
+  left: 332px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .element-3 {
+  position: absolute;
+  width: 296px;
+  top: 707px;
+  left: 423px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-20 {
+  position: absolute;
+  width: 296px;
+  top: 639px;
+  left: 507px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-21 {
+  position: absolute;
+  width: 296px;
+  top: 540px;
+  left: 702px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-22 {
+  position: absolute;
+  width: 228px;
+  top: 595px;
+  left: 315px;
+  transform: rotate(28.56deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 1230px;
+  height: 1360px;
+  top: 3419px;
+  left: 582px;
+}
+
+.desktop .overlap-9 {
+  position: relative;
+  width: 1211px;
+  height: 1361px;
+  top: -1px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-12-1.png);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-group-5 {
+  position: absolute;
+  width: 1011px;
+  height: 1205px;
+  top: 74px;
+  left: 56px;
+}
+
+.desktop .vector-34 {
+  position: absolute;
+  width: 80px;
+  height: 712px;
+  top: 494px;
+  left: 468px;
+}
+
+.desktop .vector-35 {
+  position: absolute;
+  width: 214px;
+  height: 788px;
+  top: 351px;
+  left: 219px;
+}
+
+.desktop .vector-36 {
+  position: absolute;
+  width: 92px;
+  height: 716px;
+  top: 279px;
+  left: 94px;
+}
+
+.desktop .vector-37 {
+  position: absolute;
+  width: 469px;
+  height: 279px;
+  top: 74px;
+  left: 220px;
+}
+
+.desktop .vector-38 {
+  position: absolute;
+  width: 469px;
+  height: 279px;
+  top: 0;
+  left: 93px;
+}
+
+.desktop .vector-39 {
+  position: absolute;
+  width: 462px;
+  height: 273px;
+  top: 266px;
+  left: 549px;
+}
+
+.desktop .vector-40 {
+  position: absolute;
+  width: 464px;
+  height: 276px;
+  top: 219px;
+  left: 468px;
+}
+
+.desktop .vector-41 {
+  position: absolute;
+  width: 465px;
+  height: 280px;
+  top: 52px;
+  left: 185px;
+}
+
+.desktop .vector-42 {
+  position: absolute;
+  width: 464px;
+  height: 276px;
+  top: 198px;
+  left: 432px;
+}
+
+.desktop .vector-43 {
+  position: absolute;
+  width: 464px;
+  height: 276px;
+  top: 141px;
+  left: 335px;
+}
+
+.desktop .element-4 {
+  position: absolute;
+  width: 296px;
+  top: 901px;
+  left: 457px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-23 {
+  position: absolute;
+  width: 296px;
+  top: 826px;
+  left: 362px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .element-5 {
+  position: absolute;
+  width: 296px;
+  top: 748px;
+  left: 247px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-24 {
+  position: absolute;
+  width: 296px;
+  top: 673px;
+  left: 132px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-25 {
+  position: absolute;
+  width: 296px;
+  top: 605px;
+  left: 0;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-26 {
+  position: absolute;
+  width: 228px;
+  top: 457px;
+  left: 475px;
+  transform: rotate(-30.68deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  width: 228px;
+  top: 391px;
+  left: 354px;
+  transform: rotate(-30.68deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  width: 228px;
+  top: 334px;
+  left: 255px;
+  transform: rotate(-30.68deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  width: 228px;
+  top: 246px;
+  left: 115px;
+  transform: rotate(-30.68deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-30 {
+  position: absolute;
+  width: 228px;
+  top: 615px;
+  left: 655px;
+  transform: rotate(-30.68deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 2212px;
+  height: 1373px;
+  top: 1046px;
+  left: 0;
+}
+
+.desktop .overlap-10 {
+  position: relative;
+  width: 2208px;
+  height: 1374px;
+}
+
+.desktop .rectangle-11 {
+  position: absolute;
+  width: 2208px;
+  height: 1372px;
+  top: 2px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px -20px 214.1px -124px #00000063;
+}
+
+.desktop .paragraph-2 {
+  width: 392px;
+  top: 590px;
+  left: 300px;
+  letter-spacing: var(--body-text-letter-spacing);
+  position: absolute;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .vector-44 {
+  position: absolute;
+  width: 276px;
+  height: 383px;
+  top: 0;
+  left: 300px;
+}
+
+.desktop .text-wrapper-31 {
+  position: absolute;
+  width: 249px;
+  top: 170px;
+  left: 314px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  position: absolute;
+  top: 160px;
+  left: 754px;
+}
+
+.desktop .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 228px;
+  align-items: flex-start;
+  gap: 176px;
+  position: relative;
+}
+
+.desktop .text-wrapper-32 {
+  position: relative;
+  align-self: stretch;
+  height: 50px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: -0.8px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-33 {
+  position: relative;
+  align-self: stretch;
+  height: 50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: -0.8px;
+  line-height: normal;
+}
+
+.desktop .frame-8 {
+  display: flex;
+  flex-direction: column;
+  width: 791.65px;
+  align-items: flex-start;
+  gap: 55px;
+  position: relative;
+  margin-left: -24px;
+}
+
+.desktop .frame-9 {
+  gap: 36px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.desktop .group-5 {
+  position: relative;
+  width: 129.45px;
+  height: 160.33px;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #b41d8e;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .vector-wrapper {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-1.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .vector-45 {
+  position: absolute;
+  width: 32px;
+  height: 70px;
+  top: 0;
+  left: 49px;
+}
+
+.desktop .img-wrapper {
+  width: 130px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-2.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-11 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-3.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-12 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-4.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .group-6 {
+  position: relative;
+  width: 129.45px;
+  height: 160.34px;
+}
+
+.desktop .overlap-13 {
+  position: relative;
+  width: 129px;
+  height: 160px;
+}
+
+.desktop .group-7 {
+  position: absolute;
+  width: 129px;
+  height: 160px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .ellipse-2 {
+  width: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #d9d9d9;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-group-6 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-5.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-8 {
+  position: absolute;
+  width: 102px;
+  height: 160px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .ellipse-3 {
+  width: 38px;
+  top: 0;
+  left: 27px;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-14 {
+  width: 66px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-6.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .vector-46 {
+  position: absolute;
+  width: 17px;
+  height: 70px;
+  top: 0;
+  left: 49px;
+}
+
+.desktop .ellipse-4 {
+  width: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #eda6a3;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-group-7 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-7.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-15 {
+  width: 130px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-8.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-16 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-9.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-17 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-10.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-group-8 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-11.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-18 {
+  width: 66px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-12.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .frame-10 {
+  display: flex;
+  align-items: flex-end;
+  gap: 36px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop .ellipse-5 {
+  width: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #04a9e3;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-group-9 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-13.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-19 {
+  width: 130px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-14.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-20 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-15.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-21 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-16.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .group-9 {
+  position: relative;
+  width: 129.45px;
+  height: 170.11px;
+}
+
+.desktop .overlap-22 {
+  position: relative;
+  width: 130px;
+  height: 171px;
+}
+
+.desktop .overlap-23 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 90px;
+  left: 0;
+}
+
+.desktop .vector-47 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .vector-48 {
+  position: absolute;
+  width: 33px;
+  height: 70px;
+  top: 0;
+  left: 48px;
+}
+
+.desktop .vector-49 {
+  position: absolute;
+  width: 81px;
+  height: 80px;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .vector-50 {
+  position: absolute;
+  width: 28px;
+  height: 70px;
+  top: 1px;
+  left: 49px;
+}
+
+.desktop .overlap-24 {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 0;
+  left: 18px;
+}
+
+.desktop .ellipse-6 {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 10px;
+  left: 10px;
+  background-color: #d9d9d9;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  transform: rotate(-18deg);
+}
+
+.desktop .ellipse-7 {
+  position: absolute;
+  width: 50px;
+  height: 75px;
+  top: 10px;
+  left: 10px;
+}
+
+.desktop .ellipse-8 {
+  width: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #f3a840;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-group-10 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-19.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-25 {
+  width: 130px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-20.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-26 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-21.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-27 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-22.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .group-10 {
+  position: relative;
+  width: 129.45px;
+  height: 170.52px;
+}
+
+.desktop .overlap-28 {
+  position: absolute;
+  width: 130px;
+  height: 81px;
+  top: 90px;
+  left: 0;
+}
+
+.desktop .vector-51 {
+  position: absolute;
+  width: 88px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .ellipse-9 {
+  width: 54px;
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .ellipse-10 {
+  width: 75px;
+  top: 0;
+  left: 27px;
+  background-color: #15a98f;
+  border-radius: 37.59px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 75px;
+}
+
+.desktop .overlap-group-11 {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-24.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-29 {
+  width: 130px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-25.svg);
+  position: absolute;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-30 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-26.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-31 {
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/vector-35-27.svg);
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 81px;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.desktop .frame-11 {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  align-items: flex-start;
+  gap: 176px;
+  position: relative;
+  margin-left: -24px;
+}
+
+.desktop .text-wrapper-34 {
+  position: relative;
+  align-self: stretch;
+  height: 50px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-35 {
+  position: relative;
+  align-self: stretch;
+  height: 50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-36 {
+  position: absolute;
+  width: 482px;
+  top: 4451px;
+  left: 1355px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #000000;
+  font-size: var(--heading-font-size);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.desktop .paragraph-3 {
+  width: 372px;
+  top: 1788px;
+  left: 1395px;
+  letter-spacing: -0.4px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.desktop .overlap-32 {
+  position: absolute;
+  width: 613px;
+  height: 416px;
+  top: 1143px;
+  left: 474px;
+}
+
+.desktop .element-6 {
+  position: absolute;
+  width: 296px;
+  top: 110px;
+  left: -110px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-37 {
+  position: absolute;
+  width: 296px;
+  top: 122px;
+  left: 1px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .element-7 {
+  position: absolute;
+  width: 296px;
+  top: 147px;
+  left: 153px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .element-8 {
+  position: absolute;
+  width: 296px;
+  top: 190px;
+  left: 327px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-38 {
+  position: absolute;
+  width: 296px;
+  top: 230px;
+  left: 428px;
+  transform: rotate(-90deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -0.96px;
+  line-height: normal;
+}
+
+.desktop .frame-12 {
+  display: flex;
+  flex-direction: column;
+  width: 733px;
+  align-items: flex-start;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 774px;
+}
+
+.desktop .text-wrapper-39 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #091a36;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: -1.6px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-40 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000bf;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.desktop .korea-s-national-wrapper {
+  position: absolute;
+  width: 1901px;
+  height: 650px;
+  top: 363px;
+  left: 180px;
+  background-image: url(https://c.animaapp.com/o4V31ReK/img/group-18.png);
+  background-size: 100% 100%;
+}
+
+.desktop .korea-s-national {
+  position: absolute;
+  width: 319px;
+  top: 43px;
+  left: 801px;
+  font-family: "Almendra", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 80px;
+  letter-spacing: -1.6px;
+  line-height: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.desktop .overlap-33 {
+  position: absolute;
+  width: 2072px;
+  height: 3249px;
+  top: 7971px;
+  left: 87px;
+}
+
+.desktop .group-11 {
+  position: absolute;
+  width: 2072px;
+  height: 3249px;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+}
+
+.desktop .overlap-34 {
+  position: relative;
+  height: 3249px;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 1901px;
+  height: 1864px;
+  top: 0;
+  left: 93px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-12 {
+  position: absolute;
+  width: 2072px;
+  height: 3249px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 0%,
+    rgba(255, 255, 255, 0.3) 50.5%,
+    rgb(255, 255, 255) 100%
+  );
+}
+
+.desktop .group-12 {
+  position: absolute;
+  width: 1416px;
+  height: 1267px;
+  top: 140px;
+  left: 305px;
+}
+
+.desktop .paragraph-4 {
+  width: 1038px;
+  top: 919px;
+  left: 230px;
+  letter-spacing: 0;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.desktop .overlap-35 {
+  position: absolute;
+  width: 844px;
+  height: 142px;
+  top: 0;
+  left: 339px;
+}
+
+.desktop .rectangle-13 {
+  position: absolute;
+  width: 744px;
+  height: 142px;
+  top: 0;
+  left: 38px;
+  background-color: #04a9e3;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-41 {
+  position: absolute;
+  width: 844px;
+  top: 59px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -0.48px;
+  line-height: normal;
+}
+
+.desktop .overlap-36 {
+  position: absolute;
+  width: 844px;
+  height: 100px;
+  top: 154px;
+  left: 339px;
+}
+
+.desktop .rectangle-14 {
+  position: absolute;
+  width: 532px;
+  height: 100px;
+  top: 0;
+  left: 144px;
+  background-color: #eda6a3;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-42 {
+  position: absolute;
+  width: 844px;
+  top: 32px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -0.48px;
+  line-height: normal;
+}
+
+.desktop .overlap-37 {
+  position: absolute;
+  width: 844px;
+  height: 142px;
+  top: 265px;
+  left: 339px;
+}
+
+.desktop .text-wrapper-43 {
+  position: absolute;
+  width: 844px;
+  top: 58px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -0.48px;
+  line-height: normal;
+}
+
+.desktop .rectangle-15 {
+  position: absolute;
+  width: 744px;
+  height: 39px;
+  top: 419px;
+  left: 316px;
+  background-color: #d9d9d9;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-16 {
+  position: absolute;
+  width: 743px;
+  height: 39px;
+  top: 470px;
+  left: 439px;
+  background-color: #d9d9d9;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-17 {
+  position: absolute;
+  width: 744px;
+  height: 39px;
+  top: 521px;
+  left: 316px;
+  background-color: #d9d9d9;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-18 {
+  position: absolute;
+  width: 743px;
+  height: 39px;
+  top: 572px;
+  left: 439px;
+  background-color: #d9d9d9;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .overlap-38 {
+  position: absolute;
+  width: 843px;
+  height: 89px;
+  top: 622px;
+  left: 341px;
+}
+
+.desktop .rectangle-19 {
+  position: absolute;
+  width: 744px;
+  height: 89px;
+  top: 0;
+  left: 36px;
+  background-color: #fe3624;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-44 {
+  position: absolute;
+  width: 843px;
+  top: 27px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -0.48px;
+  line-height: normal;
+}
+
+.desktop .rectangle-20 {
+  position: absolute;
+  width: 31px;
+  height: 87px;
+  top: 1px;
+  left: 704px;
+  background-color: #444444;
+}
+
+.desktop .overlap-39 {
+  position: absolute;
+  width: 1404px;
+  height: 147px;
+  top: 722px;
+  left: 0;
+}
+
+.desktop .rectangle-21 {
+  position: absolute;
+  width: 1038px;
+  height: 146px;
+  top: 0;
+  left: 230px;
+  background-color: #f3a840;
+  border: 2.3px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-45 {
+  position: absolute;
+  width: 843px;
+  top: 62px;
+  left: 311px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: -0.52px;
+  line-height: normal;
+}
+
+.desktop .ellipse-11 {
+  position: absolute;
+  width: 47px;
+  height: 48px;
+  top: 59px;
+  left: 1160px;
+  background-color: #444444;
+  border-radius: 23.5px / 24px;
+}
+
+.desktop .line-wrapper {
+  position: absolute;
+  width: 1404px;
+  height: 1px;
+  top: 146px;
+  left: 0;
+}
+
+.desktop .line-3 {
+  position: absolute;
+  width: 1404px;
+  height: 2px;
+  top: -2px;
+  left: 0;
+}
